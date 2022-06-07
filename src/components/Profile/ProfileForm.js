@@ -1,12 +1,15 @@
 import { useRef, useContext } from 'react';
 import classes from './ProfileForm.module.css';
 import AuthContext from '../../store/auth-context';
+import { useNavigate } from 'react-router-dom';
 
 const ProfileForm = () => {
   const newPasswordInputRef = useRef();
 
   //grabs token
   const authCtx = useContext(AuthContext);
+
+  const navigate = useNavigate();
   
   const submitHandler = (event) => {
     event.preventDefault();
@@ -25,7 +28,9 @@ const ProfileForm = () => {
       }
     }).then(res => {
       //succeeds
-      
+      alert('Password successfully changed!');
+      navigate('/')
+
     })
   };
 

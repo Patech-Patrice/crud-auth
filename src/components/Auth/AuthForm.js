@@ -1,4 +1,5 @@
 import { useState, useRef, useContext} from 'react';
+import { useNavigate } from 'react-router-dom';
 import AuthContext from '../../store/auth-context';
 
 import classes from './AuthForm.module.css';
@@ -7,6 +8,8 @@ const AuthForm = () => {
   const emailInputRef = useRef();
   const passwordInputRef = useRef();
   const [isLogin, setIsLogin] = useState(true);
+
+  const navigate = useNavigate();
 
   const authCtx = useContext(AuthContext);
 
@@ -58,6 +61,7 @@ const AuthForm = () => {
         //user has been successfully created store token
         //set token with auth context
         authCtx.login(data.idToken);
+        navigate('/');
         console.log(data);
       }).catch(err => {
         alert(err.message);
