@@ -1,9 +1,11 @@
 import './App.css';
-import {BrowserRouter as Router, Route, Link, Routes, Navigate} from 'react-router-dom';
+import { useContext } from 'react';
+import {BrowserRouter as Router, Route, Link, Routes, Navigate, Redirect } from 'react-router-dom';
 import Layout from './components/Layout/Layout';
 import UserProfile from './components/Profile/UserProfile';
 import AuthPage from './pages/AuthPage';
 import HomePage from './pages/HomePage';
+import AuthContext from './store/auth-context';
 
 import { useState } from 'react';
 
@@ -20,7 +22,7 @@ const Home = () => {
 const Books = () => {
   return (
     <div>
-      This is the home page
+      This is the books page
       </div>
   );
 }
@@ -28,7 +30,7 @@ const Books = () => {
 const Book = () => {
   return (
     <div>
-      This is the home page
+      This is the book :id page
       </div>
   );
 }
@@ -36,7 +38,7 @@ const Book = () => {
 const NewBook = () => {
   return (
     <div>
-      This is the movies  page
+      This is the new book page
       </div>
   );
 }
@@ -45,7 +47,7 @@ const NewBook = () => {
 const UpdateBook = () => {
   return (
     <div>
-      This is the home page
+      This is the update book page
       </div>
   );
 }
@@ -54,7 +56,7 @@ const UpdateBook = () => {
 
 const App = () => {
 
-
+const authCtx = useContext(AuthContext);
 
   return (
     <div className="App">
@@ -64,18 +66,25 @@ const App = () => {
 
  
    <Layout>
-      <Routes>
-                <Route path='/' element={<Home/>} /> 
+       <Routes>
+             <Route path='/' element={<HomePage/>} /> 
+              {!authCtx.isLoggedIn && (
+              <Route path="/auth" element={<AuthPage />} /> 
+              )}
+              { authCtx.isLoggedIn && (
+               <Route path="/profile" element={<UserProfile />} />
+              )}
+              { authCtx.isLoggedIn && (
+                <Route path="/books" element={<Books />} />
+              )}
+                <Route path="/books/:id" element={<Navigate to='/books' />} />
                 <Route path='/books/new' element={<NewBook/>} />
                 <Route path='/books/update/:id' element={<UpdateBook />} />
-                <Route path="/books" element={<Books />} />  
                 <Route path="/books/:id" element={<Book />} />
-                <Route path="/books/:id" element={<Navigate to='/books' />} />
-                <Route path='/' element={<HomePage/>} /> 
-                <Route path="/auth" element={<AuthPage />} />  
-                <Route path="/profile" element={<UserProfile />} />  
-            </Routes>
-            </Layout>
+                <Route path="*" element={<Navigate to="/" replace />}
+    />
+          </Routes>
+      </Layout>
     </div>
   );
 }
