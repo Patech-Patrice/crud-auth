@@ -53,9 +53,6 @@ const MainNavigation = () => {
               </li>
            )}
 
-
-
-
           {isLoggedIn && (
           <li>
             <button onClick={logoutHandler}>Logout</button>
