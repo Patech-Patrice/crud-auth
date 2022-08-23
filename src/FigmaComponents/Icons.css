@@ -1,0 +1,209 @@
+
+.Icons_Icons {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Icons_Icons .chart {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .chart .shape {
+	position: absolute;
+	left: 2.14990234375px;
+	top: 3.1499996185302734px;
+	width: 82.0831298828125%;
+	height: 73.75007470448813%;
+}
+.Icons_Icons .bell {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .bell .shape_1 {
+	position: absolute;
+	left: 3.1500244140625px;
+	top: 2.1499996185302734px;
+	width: 73.74979654947916%;
+	height: 82.08332856496176%;
+}
+.Icons_Icons .case {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .case .shape_2 {
+	position: absolute;
+	left: 3.1500244140625px;
+	top: 3.1499996185302734px;
+	width: 73.74979654947916%;
+	height: 77.91666189829508%;
+}
+.Icons_Icons .user {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .user .shape_3 {
+	position: absolute;
+	left: 3.6500244140625px;
+	top: 2.6499996185302734px;
+	width: 69.5831298828125%;
+	height: 77.91666189829508%;
+}
+.Icons_Icons .checkout {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .checkout .shape_4 {
+	position: absolute;
+	left: 3.1500244140625px;
+	top: 3.1499996185302734px;
+	width: 73.74979654947916%;
+	height: 77.91666189829508%;
+}
+.Icons_Icons .settings {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .settings .shape_5 {
+	position: absolute;
+	left: 2.149658203125px;
+	top: 1.1499996185302734px;
+	width: 82.08516438802084%;
+	height: 86.24999523162842%;
+}
+.Icons_Icons .search {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .search .shape_6 {
+	position: absolute;
+	left: 2.14990234375px;
+	top: 2.1500015258789062px;
+	width: 82.0831298828125%;
+	height: 82.08335240681967%;
+}
+.Icons_Icons .arrowright {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .arrowright .shape_7 {
+	position: absolute;
+	left: 2.1500244140625px;
+	top: 2.1500015258789062px;
+	width: 82.0831298828125%;
+	height: 73.75001907348633%;
+}
+.Icons_Icons .check {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .check .shape_8 {
+	position: absolute;
+	left: 2.1500244140625px;
+	top: 2.1500015258789062px;
+	width: 82.0831298828125%;
+	height: 82.08335240681967%;
+}
+.Icons_Icons .users {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .users .shape_9 {
+	position: absolute;
+	left: 3.1500244140625px;
+	top: 3.1500015258789062px;
+	width: 77.91646321614584%;
+	height: 73.75001907348633%;
+}
+.Icons_Icons .chevrondown {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .chevrondown .shape_10 {
+	position: absolute;
+	left: 6.1500244140625px;
+	top: 9.150001525878906px;
+	width: 48.74979654947917%;
+	height: 27.916653951009113%;
+}
+.Icons_Icons .info {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .info .shape_11 {
+	position: absolute;
+	left: 2.1500244140625px;
+	top: 2.149993896484375px;
+	width: 82.0831298828125%;
+	height: 82.08332061767578%;
+}
+.Icons_Icons .chat {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .chat .shape_12 {
+	position: absolute;
+	left: 1.699951171875px;
+	top: 2.149993896484375px;
+	width: 85.83272298177084%;
+	height: 82.08332061767578%;
+}
+.Icons_Icons .arrows {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .arrows .shape_13 {
+	position: absolute;
+	left: 2.1500244140625px;
+	top: 2.149993896484375px;
+	width: 82.0831298828125%;
+	height: 82.08332061767578%;
+}
+.Icons_Icons .more {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .more .shape_14 {
+	position: absolute;
+	left: 4px;
+	top: 10px;
+	width: 66.66666666666666%;
+	height: 16.666666666666664%;
+}
+.Icons_Icons .logout {
+	width: 6.382978723404255%;
+	height: 11.538461538461538%;
+}
+.Icons_Icons .logout .shape_15 {
+	position: absolute;
+	left: 2.1500244140625px;
+	top: 2.149993896484375px;
+	width: 82.0831298828125%;
+	height: 82.08332061767578%;
+}
+.Icons_Icons .up {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .up .shape_16 {
+	position: absolute;
+	left: 0.8782958984375px;
+	top: 1.0491790771484375px;
+	width: 91.25010172526041%;
+	height: 91.24991099039713%;
+}
+.Icons_Icons .down {
+	width: 24px;
+	height: 24px;
+}
+.Icons_Icons .down .shape_17 {
+	position: absolute;
+	left: 0.8782958984375px;
+	top: 1.0491790771484375px;
+	width: 91.25010172526041%;
+	height: 91.24991099039713%;
+}

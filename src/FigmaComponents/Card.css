@@ -1,0 +1,128 @@
+
+.Card_Card {
+	width: 198px;
+	height: 99px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Card_Card .Top {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 66px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+}
+.Card_Card .Top .Text {
+	position: relative;
+	flex: none;
+	width: 95px;
+	height: 66px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Card_Card .Top .Text ._89935 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 95px;
+	height: 42px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 42px;
+}
+.Card_Card .Top .Text .Totalusers {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 87px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.Card_Card .Top .icon {
+	position: relative;
+	flex: none;
+	width: 44px;
+	height: 44px;
+	display: flex;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+}
+.Card_Card .Top .icon .users {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+}
+.Card_Card .Top .icon .users .shape {
+	width: 77.91668574015299%;
+	height: 73.75005086263022%;
+}
+.Card_Card .Bottom {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 21px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+}
+.Card_Card .Bottom .Amount {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 53px;
+	height: 21px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Card_Card .Bottom .Amount .up {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Card_Card .Bottom .Amount .up .shape_1 {
+	width: 91.24996185302734%;
+	height: 91.25%;
+}
+.Card_Card .Bottom .Amount ._102 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 25px;
+	height: 21px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Card_Card .Bottom ._101thisweek {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 133px;
+	height: 21px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}

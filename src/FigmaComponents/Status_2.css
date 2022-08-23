@@ -1,0 +1,41 @@
+
+.Status_2_Status {
+	width: 108px;
+	height: 26px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Status_2_Status .Status_Delivery {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+}
+.Status_2_Status .Status_Delivery .Status_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 108px;
+}
+.Status_2_Status .Status_Delivery .Status_1 .Ellipse13 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 8px;
+	height: 8px;
+	background: rgba(255,149,0,1.00);
+	border-radius: 50%;
+}
+.Status_2_Status .Status_Delivery .Status_1 .NewOrder {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 68px;
+	height: 18px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}

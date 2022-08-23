@@ -1,10 +1,11 @@
+import ReactDemoLandingPage from './../ReactDemoLandingPage/ReactDemoLandingPage.js';
 import classes from './StartingPageContent.module.css';
 
 const StartingPageContent = () => {
   return (
-    <section className={classes.starting}>
-      <h1>Welcome on Board!</h1>
-    </section>
+    <div>
+      <ReactDemoLandingPage />
+        </div>
   );
 };
 

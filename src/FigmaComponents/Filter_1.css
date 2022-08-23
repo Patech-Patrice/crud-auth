@@ -1,0 +1,35 @@
+
+.Filter_1_Filter {
+	width: 88px;
+	height: 26px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Filter_1_Filter .Filter_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+}
+.Filter_1_Filter .Filter_1 .Monthly {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 48px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Filter_1_Filter .Filter_1 .chevrondown {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 16px;
+	height: 16px;
+}
+.Filter_1_Filter .Filter_1 .chevrondown .shape {
+	width: 48.75001907348633%;
+	height: 27.916622161865234%;
+}

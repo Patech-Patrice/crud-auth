@@ -1,0 +1,2146 @@
+
+.Dashboard_Dashboard {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Dashboard_Dashboard .Divider {
+	position: absolute;
+	left: 285px;
+	top: 100px;
+	width: 0px;
+	height: 760px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Indicator {
+	position: absolute;
+	left: 281px;
+	top: 158px;
+	width: 4px;
+	height: 24px;
+	background: rgba(52,122,226,1.00);
+}
+.Dashboard_Dashboard .Logo {
+	position: absolute;
+	left: 51px;
+	top: 60px;
+	width: 80px;
+}
+.Dashboard_Dashboard .Logo .Icon {
+}
+.Dashboard_Dashboard .Logo .Icon .stroke {
+}
+.Dashboard_Dashboard .Logo .Icon .stroke_1 {
+}
+.Dashboard_Dashboard .Logo .Icon .stroke_2 {
+}
+.Dashboard_Dashboard .Logo .Aeon {
+	width: 46px;
+	font-weight: 500;
+}
+.Dashboard_Dashboard .BottomMenu {
+	position: absolute;
+	left: 56px;
+	top: 700px;
+	width: 193px;
+	height: 128px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .BottomMenu .NavList {
+	position: relative;
+	flex: none;
+	margin-bottom: 28px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList .IconText {
+	width: 131px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList .IconText .info {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList .IconText .info .shape {
+}
+.Dashboard_Dashboard .BottomMenu .NavList .IconText .Product {
+	width: 95px;
+	font-weight: 500;
+}
+.Dashboard_Dashboard .BottomMenu .NavList .chevrondown {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 69px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList .chevrondown .shape_1 {
+}
+.Dashboard_Dashboard .BottomMenu .NavList_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 28px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_1 .IconText_1 {
+	width: 125px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_1 .IconText_1 .chat {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_1 .IconText_1 .chat .shape_2 {
+	height: 82.08338419596353%;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_1 .IconText_1 .Product_1 {
+	width: 89px;
+	font-weight: 500;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_1 .Indicator_1 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 69px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_1 .Indicator_1 .Frame14 {
+}
+.Dashboard_Dashboard .BottomMenu .NavList_1 .Indicator_1 .Frame14 ._2 {
+	font-weight: 500;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 28px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_2 .IconText_2 {
+	width: 95px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_2 .IconText_2 .logout {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_2 .IconText_2 .logout .shape_3 {
+	height: 82.08338419596353%;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_2 .IconText_2 .Product_2 {
+	width: 59px;
+	color: rgba(52,122,226,1.00);
+	font-weight: 500;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_2 .Indicator_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 69px;
+}
+.Dashboard_Dashboard .BottomMenu .NavList_2 .Indicator_2 .Frame14_1 {
+}
+.Dashboard_Dashboard .BottomMenu .NavList_2 .Indicator_2 .Frame14_1 ._2_1 {
+	font-weight: 500;
+}
+.Dashboard_Dashboard .TopMenu {
+	position: absolute;
+	left: 56px;
+	top: 162px;
+	width: 193px;
+	height: 180px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .TopMenu .NavList_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 28px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_3 .IconText_3 {
+	width: 111px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_3 .IconText_3 .chart {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_3 .IconText_3 .chart .shape_4 {
+	height: 73.75005086263022%;
+}
+.Dashboard_Dashboard .TopMenu .NavList_3 .IconText_3 .Product_3 {
+	width: 75px;
+	color: rgba(52,122,226,1.00);
+	font-weight: 500;
+}
+.Dashboard_Dashboard .TopMenu .NavList_3 .chevrondown_1 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 69px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_3 .chevrondown_1 .shape_5 {
+	height: 27.916717529296875%;
+}
+.Dashboard_Dashboard .TopMenu .NavList_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: 28px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_4 .IconText_4 {
+	width: 103px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_4 .IconText_4 .case {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_4 .IconText_4 .case .shape_6 {
+	height: 77.91665395100912%;
+}
+.Dashboard_Dashboard .TopMenu .NavList_4 .IconText_4 .Product_4 {
+	width: 67px;
+	font-weight: 500;
+}
+.Dashboard_Dashboard .TopMenu .NavList_4 .chevrondown_2 {
+	position: relative;
+	flex: none;
+}
+.Dashboard_Dashboard .TopMenu .NavList_4 .chevrondown_2 .shape_7 {
+}
+.Dashboard_Dashboard .TopMenu .NavList_5 {
+	position: relative;
+	flex: none;
+	margin-bottom: 28px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_5 .IconText_5 {
+	width: 91px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_5 .IconText_5 .user {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_5 .IconText_5 .user .shape_8 {
+	height: 77.91665395100912%;
+}
+.Dashboard_Dashboard .TopMenu .NavList_5 .IconText_5 .Product_5 {
+	width: 55px;
+	font-weight: 500;
+}
+.Dashboard_Dashboard .TopMenu .NavList_5 .chevrondown_3 {
+	position: relative;
+	flex: none;
+}
+.Dashboard_Dashboard .TopMenu .NavList_5 .chevrondown_3 .shape_9 {
+}
+.Dashboard_Dashboard .TopMenu .NavList_6 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 28px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_6 .IconText_6 {
+	width: 114px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_6 .IconText_6 .checkout {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_6 .IconText_6 .checkout .shape_10 {
+	height: 77.91665395100912%;
+}
+.Dashboard_Dashboard .TopMenu .NavList_6 .IconText_6 .Product_6 {
+	width: 78px;
+	font-weight: 500;
+}
+.Dashboard_Dashboard .TopMenu .NavList_6 .Indicator_3 {
+	position: relative;
+	flex: none;
+}
+.Dashboard_Dashboard .TopMenu .NavList_6 .Indicator_3 .Frame14_2 {
+}
+.Dashboard_Dashboard .TopMenu .NavList_6 .Indicator_3 .Frame14_2 ._2_2 {
+	font-weight: 500;
+}
+.Dashboard_Dashboard .TopMenu .NavList_7 {
+	position: relative;
+	flex: none;
+	margin-bottom: 28px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_7 .IconText_7 {
+	width: 93px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_7 .IconText_7 .settings {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_7 .IconText_7 .settings .shape_11 {
+	height: 86.24998728434244%;
+}
+.Dashboard_Dashboard .TopMenu .NavList_7 .IconText_7 .Product_7 {
+	width: 57px;
+	font-weight: 500;
+}
+.Dashboard_Dashboard .TopMenu .NavList_7 .Indicator_4 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 69px;
+}
+.Dashboard_Dashboard .TopMenu .NavList_7 .Indicator_4 .Frame14_3 {
+}
+.Dashboard_Dashboard .TopMenu .NavList_7 .Indicator_4 .Frame14_3 ._2_3 {
+	font-weight: 500;
+}
+.Dashboard_Dashboard .Charts {
+	position: absolute;
+	left: 410px;
+	top: 186px;
+	width: 772px;
+	height: 483px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Charts .LineChart {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 772px;
+	height: 344px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title {
+	position: relative;
+	flex: none;
+	margin-bottom: 24px;
+	width: 732px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .ClusterAnalytics {
+	position: relative;
+	flex: none;
+	width: 170px;
+	height: 30px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 30px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements {
+	position: relative;
+	flex: none;
+	width: 321px;
+	height: 26px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend {
+	position: relative;
+	flex: none;
+	margin-right: 36px;
+	width: 321px;
+	height: 26px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .legend1 {
+	position: relative;
+	flex: none;
+	margin-right: 20px;
+	width: 97px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .legend1 .Ellipse3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 8px;
+	height: 8px;
+	background: rgba(52,122,226,1.00);
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .legend1 .Offlineorders {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 81px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .legend2 {
+	position: relative;
+	flex: none;
+	margin-right: 20px;
+	width: 96px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .legend2 .Ellipse4 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 8px;
+	height: 8px;
+	background: rgba(255,149,0,1.00);
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .legend2 .Onlineorders {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 80px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .Filter {
+	position: relative;
+	flex: none;
+	margin-right: 20px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .Filter .Filter_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .Filter .Filter_1 .Monthly {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 48px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .Filter .Filter_1 .chevrondown_4 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 16px;
+	height: 16px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Title .RightElements .Legend .Filter .Filter_1 .chevrondown_4 .shape_12 {
+	width: 48.75030517578125%;
+	height: 27.916622161865234%;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table {
+	position: relative;
+	flex: none;
+	margin-bottom: 24px;
+	width: 732px;
+	height: 250px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 732px;
+	height: 250px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 732px;
+	height: 221px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line {
+	position: relative;
+	flex: none;
+	margin-bottom: 19px;
+	width: 732px;
+	height: 21px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line ._100 {
+	position: relative;
+	flex: none;
+	width: 23px;
+	height: 21px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line .Line9 {
+	position: relative;
+	flex: none;
+	width: 694px;
+	height: 0.00006103515625px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 19px;
+	width: 732px;
+	height: 21px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_1 ._80 {
+	position: relative;
+	flex: none;
+	width: 22px;
+	height: 21px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_1 .Line9_1 {
+	position: relative;
+	flex: none;
+	width: 694px;
+	height: 0.5px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 19px;
+	width: 732px;
+	height: 21px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_2 ._60 {
+	position: relative;
+	flex: none;
+	width: 22px;
+	height: 21px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_2 .Line9_2 {
+	position: relative;
+	flex: none;
+	width: 694px;
+	height: 0px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 19px;
+	width: 732px;
+	height: 21px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_3 ._40 {
+	position: relative;
+	flex: none;
+	width: 22px;
+	height: 21px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_3 .Line9_3 {
+	position: relative;
+	flex: none;
+	width: 694px;
+	height: 0px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: 19px;
+	width: 732px;
+	height: 21px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_4 ._20 {
+	position: relative;
+	flex: none;
+	width: 22px;
+	height: 21px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_4 .Line9_4 {
+	position: relative;
+	flex: none;
+	width: 694px;
+	height: 0px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_5 {
+	position: relative;
+	flex: none;
+	margin-bottom: 19px;
+	width: 732px;
+	height: 21px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_5 ._0 {
+	position: relative;
+	flex: none;
+	width: 22px;
+	height: 21px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Frame114 .Line_5 .Line9_5 {
+	position: relative;
+	flex: none;
+	width: 694px;
+	height: 0px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Month {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 612px;
+	height: 21px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Month .Jan {
+	position: relative;
+	flex: none;
+	margin-right: 72px;
+	width: 26px;
+	height: 21px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Month .Feb {
+	position: relative;
+	flex: none;
+	margin-right: 72px;
+	width: 26px;
+	height: 21px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Month .Mar {
+	position: relative;
+	flex: none;
+	margin-right: 72px;
+	width: 27px;
+	height: 21px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Month .Apr {
+	position: relative;
+	flex: none;
+	margin-right: 72px;
+	width: 25px;
+	height: 21px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Month .May {
+	position: relative;
+	flex: none;
+	margin-right: 72px;
+	width: 30px;
+	height: 21px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Month .Jun {
+	position: relative;
+	flex: none;
+	margin-right: 72px;
+	width: 26px;
+	height: 21px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Table_1 .Month .Jul {
+	position: relative;
+	flex: none;
+	margin-right: 72px;
+	width: 20px;
+	height: 21px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Bg {
+	position: absolute;
+	left: 286px;
+	top: 29px;
+	width: 27px;
+	height: 181px;
+	border-radius: 8px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Chart1 {
+	position: absolute;
+	left: 40px;
+	top: 64px;
+	width: 691px;
+	height: 102px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Chart2 {
+	position: absolute;
+	left: 40px;
+	top: 77px;
+	width: 691px;
+	height: 101px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Ellipse12 {
+	position: absolute;
+	left: 296px;
+	top: 87px;
+	width: 8px;
+	height: 8px;
+	background: rgba(52,122,226,1.00);
+	border-radius: 50%;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Info {
+	position: absolute;
+	left: 246px;
+	top: 12px;
+	width: 94px;
+	height: 47px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Info .Info_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 94px;
+	height: 42px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 12px;
+	padding-right: 12px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 8px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Info .Info_1 .Frame115 {
+	position: relative;
+	flex: none;
+	margin-bottom: 10px;
+	width: 70px;
+	height: 18px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Info .Info_1 .Frame115 ._15Aug2022 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 70px;
+	height: 18px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Info .Info_1 .Frame115 ._5949210 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 84px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.Dashboard_Dashboard .Charts .LineChart .Table .Info .Pin {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 12px;
+	height: 5px;
+}
+.Dashboard_Dashboard .Charts .CircleChart {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 256px;
+	height: 344px;
+	display: flex;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 216px;
+	height: 304px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: flex-end;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Header {
+	position: relative;
+	flex: none;
+	margin-bottom: 20px;
+	height: 30px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Header .Earnings {
+	position: relative;
+	flex: none;
+	width: 88px;
+	height: 30px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 30px;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Header .more {
+	position: relative;
+	flex: none;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Header .more .shape_13 {
+	position: absolute;
+	left: 4px;
+	top: 10px;
+	width: 66.66666666666666%;
+	height: 16.666666666666664%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .CircleChart_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 20px;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .CircleChart_1 .Ellipse6 {
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .CircleChart_1 .Ellipse7 {
+	width: 80.00002260561342%;
+	height: 79.99999434859664%;
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .CircleChart_1 .Ellipse9 {
+	width: 58.999972873263886%;
+	height: 59.000001130280666%;
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .CircleChart_1 .Ellipse5 {
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .CircleChart_1 .Ellipse8 {
+	width: 80.00002260561342%;
+	height: 79.99999434859664%;
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .CircleChart_1 .Ellipse10 {
+	width: 58.999972873263886%;
+	height: 59.000001130280666%;
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 20px;
+	width: 201px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 .legend1_1 {
+	position: relative;
+	flex: none;
+	margin-right: 20px;
+	width: 55px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 .legend1_1 .Ellipse3_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 8px;
+	height: 8px;
+	background: rgba(52,199,89,1.00);
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 .legend1_1 .Offline {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 39px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 .legend2_1 {
+	position: relative;
+	flex: none;
+	margin-right: 20px;
+	width: 55px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 .legend2_1 .Ellipse4_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 8px;
+	height: 8px;
+	background: rgba(255,149,0,1.00);
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 .legend2_1 .Online {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 39px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 .legend3 {
+	position: relative;
+	flex: none;
+	margin-right: 20px;
+	width: 51px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 .legend3 .Ellipse4_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 8px;
+	height: 8px;
+	background: rgba(52,122,226,1.00);
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .Charts .CircleChart .Chart .Legend_1 .legend3 .Trade {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 35px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .Cards {
+	visibility: hidden;
+	position: absolute;
+	left: 325px;
+	top: 162px;
+	width: 1060px;
+	height: 142px;
+	display: flex;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Cards .Card {
+	position: relative;
+	flex: none;
+	margin-right: 38px;
+}
+.Dashboard_Dashboard .Cards .Card .Top {
+}
+.Dashboard_Dashboard .Cards .Card .Top .Text {
+}
+.Dashboard_Dashboard .Cards .Card .Top .Text ._89935 {
+	font-weight: 600;
+}
+.Dashboard_Dashboard .Cards .Card .Top .Text .Totalusers {
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Card .Top .icon {
+}
+.Dashboard_Dashboard .Cards .Card .Top .icon .users {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+}
+.Dashboard_Dashboard .Cards .Card .Top .icon .users .shape_14 {
+	height: 73.75005086263022%;
+}
+.Dashboard_Dashboard .Cards .Card .Bottom {
+}
+.Dashboard_Dashboard .Cards .Card .Bottom .Amount {
+}
+.Dashboard_Dashboard .Cards .Card .Bottom .Amount .up {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Dashboard_Dashboard .Cards .Card .Bottom .Amount .up .shape_15 {
+	width: 91.25%;
+	height: 91.24992370605469%;
+}
+.Dashboard_Dashboard .Cards .Card .Bottom .Amount ._102 {
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Card .Bottom ._101thisweek {
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Divider_1 {
+	position: relative;
+	flex: none;
+	margin-right: 38px;
+	width: 0px;
+	height: 102px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Cards .Card_1 {
+	position: relative;
+	flex: none;
+	margin-right: 38px;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Top_1 {
+}
+.Dashboard_Dashboard .Cards .Card_1 .Top_1 .Text_1 {
+	width: 117px;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Top_1 .Text_1 ._89935_1 {
+	width: 117px;
+	font-weight: 600;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Top_1 .Text_1 .Totalusers_1 {
+	width: 116px;
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Top_1 .icon_1 {
+}
+.Dashboard_Dashboard .Cards .Card_1 .Top_1 .icon_1 .case_1 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Top_1 .icon_1 .case_1 .shape_16 {
+	height: 77.91671752929688%;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Bottom_1 {
+}
+.Dashboard_Dashboard .Cards .Card_1 .Bottom_1 .Amount_1 {
+	width: 44px;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Bottom_1 .Amount_1 .up_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Bottom_1 .Amount_1 .up_1 .shape_17 {
+	width: 91.25%;
+	height: 91.24992370605469%;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Bottom_1 .Amount_1 ._102_1 {
+	width: 16px;
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Card_1 .Bottom_1 ._101thisweek_1 {
+	width: 142px;
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Divider_2 {
+	position: relative;
+	flex: none;
+	margin-right: 38px;
+	width: 0px;
+	height: 102px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Cards .Card_2 {
+	position: relative;
+	flex: none;
+	margin-right: 38px;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Top_2 {
+}
+.Dashboard_Dashboard .Cards .Card_2 .Top_2 .Text_2 {
+	width: 93px;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Top_2 .Text_2 ._89935_2 {
+	width: 93px;
+	font-weight: 600;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Top_2 .Text_2 .Totalusers_2 {
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Top_2 .icon_2 {
+}
+.Dashboard_Dashboard .Cards .Card_2 .Top_2 .icon_2 .check {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Top_2 .icon_2 .check .shape_18 {
+	height: 82.08338419596353%;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Bottom_2 {
+}
+.Dashboard_Dashboard .Cards .Card_2 .Bottom_2 .Amount_2 {
+	width: 57px;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Bottom_2 .Amount_2 .down {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Bottom_2 .Amount_2 .down .shape_19 {
+	width: 91.25%;
+	height: 91.24992370605469%;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Bottom_2 .Amount_2 ._102_2 {
+	width: 29px;
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Card_2 .Bottom_2 ._101thisweek_2 {
+	width: 129px;
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Divider_3 {
+	position: relative;
+	flex: none;
+	margin-right: 38px;
+	width: 0px;
+	height: 102px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+}
+.Dashboard_Dashboard .Cards .Card_3 {
+	position: relative;
+	flex: none;
+	margin-right: 38px;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Top_3 {
+}
+.Dashboard_Dashboard .Cards .Card_3 .Top_3 .Text_3 {
+	width: 107px;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Top_3 .Text_3 ._89935_3 {
+	width: 107px;
+	font-weight: 600;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Top_3 .Text_3 .Totalusers_3 {
+	width: 77px;
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Top_3 .icon_3 {
+}
+.Dashboard_Dashboard .Cards .Card_3 .Top_3 .icon_3 .arrowright {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Top_3 .icon_3 .arrowright .shape_20 {
+	height: 73.75005086263022%;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Bottom_3 {
+}
+.Dashboard_Dashboard .Cards .Card_3 .Bottom_3 .Amount_3 {
+	width: 47px;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Bottom_3 .Amount_3 .up_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Bottom_3 .Amount_3 .up_2 .shape_21 {
+	width: 91.25%;
+	height: 91.24992370605469%;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Bottom_3 .Amount_3 ._102_3 {
+	width: 19px;
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Cards .Card_3 .Bottom_3 ._101thisweek_3 {
+	width: 139px;
+	font-weight: 400;
+}
+.Dashboard_Dashboard .Header_1 {
+	position: absolute;
+	left: 325px;
+	top: 60px;
+	width: 1059px;
+	height: 70px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+}
+.Dashboard_Dashboard .Header_1 .TitleSubtitle {
+	position: relative;
+	flex: none;
+	width: 340px;
+	height: 70px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Header_1 .TitleSubtitle .WelcomeBackMark {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 294px;
+	height: 42px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 42px;
+}
+.Dashboard_Dashboard .Header_1 .TitleSubtitle .Hereistheinformationaboutyourclusters {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 340px;
+	height: 24px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.Dashboard_Dashboard .Header_1 .Elements {
+	position: relative;
+	flex: none;
+	width: 223px;
+	height: 32px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Icons {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 24px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Icons .search {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Icons .search .shape_22 {
+	height: 82.08338419596353%;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Icons .bell {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 24px;
+	height: 24px;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Icons .bell .bell_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Icons .bell .bell_1 .shape_23 {
+	height: 82.08338419596353%;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Icons .bell .indicator {
+	position: absolute;
+	left: 20px;
+	top: 0px;
+	width: 16.666666666666664%;
+	height: 16.666666666666664%;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Profile {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 167px;
+	height: 32px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Profile .avatar {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 32px;
+	height: 32px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	background-size: cover;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Profile .text {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 123px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Profile .text .MarkJones {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 91px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Profile .text .chevrondown_5 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+}
+.Dashboard_Dashboard .Header_1 .Elements .Profile .text .chevrondown_5 .shape_24 {
+	height: 27.916717529296875%;
+}
+.Dashboard_Dashboard .OrderList {
+	position: absolute;
+	left: 325px;
+	top: 712px;
+	width: 1059px;
+	height: 298px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 10px;
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .OrderList .Frame78 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 1011px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Frame78 .OrderList_1 {
+	position: relative;
+	flex: none;
+	width: 95px;
+	height: 30px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 30px;
+}
+.Dashboard_Dashboard .OrderList .Frame78 .Filter_2 {
+	position: relative;
+	flex: none;
+}
+.Dashboard_Dashboard .OrderList .Frame78 .Filter_2 .Filter_3 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+}
+.Dashboard_Dashboard .OrderList .Frame78 .Filter_2 .Filter_3 .Monthly_1 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 48px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Frame78 .Filter_2 .Filter_3 .chevrondown_6 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 16px;
+	height: 16px;
+}
+.Dashboard_Dashboard .OrderList .Frame78 .Filter_2 .Filter_3 .chevrondown_6 .shape_25 {
+	width: 48.75030517578125%;
+	height: 27.916717529296875%;
+}
+.Dashboard_Dashboard .OrderList .Table_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 1019px;
+	height: 216px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 1019px;
+	height: 54px;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .No {
+	position: absolute;
+	left: 12px;
+	top: 18px;
+	width: 17px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .Date {
+	position: absolute;
+	left: 187px;
+	top: 18px;
+	width: 29px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .Location {
+	position: absolute;
+	left: 490px;
+	top: 18px;
+	width: 52px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .Action {
+	position: absolute;
+	left: 968px;
+	top: 18px;
+	width: 39px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .ID {
+	position: absolute;
+	left: 73px;
+	top: 18px;
+	width: 28px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .ID .ID_1 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 12px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .ID .arrows {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 12px;
+	height: 12px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .ID .arrows .shape_26 {
+	width: 82.08414713541666%;
+	height: 82.08338419596353%;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .CustomerName {
+	position: absolute;
+	left: 326px;
+	top: 18px;
+	width: 116px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .CustomerName .CustomerName_1 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 100px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .CustomerName .arrows_1 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 12px;
+	height: 12px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .CustomerName .arrows_1 .shape_27 {
+	width: 82.08414713541666%;
+	height: 82.08338419596353%;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .Amount_4 {
+	position: absolute;
+	left: 676px;
+	top: 18px;
+	width: 65px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .Amount_4 .Amount_5 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 49px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .Amount_4 .arrows_2 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 12px;
+	height: 12px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .Amount_4 .arrows_2 .shape_28 {
+	width: 82.08414713541666%;
+	height: 82.08338419596353%;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .StatusOrder {
+	position: absolute;
+	left: 801px;
+	top: 18px;
+	width: 92px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .StatusOrder .StatusOrder_1 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 76px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .StatusOrder .arrows_3 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 12px;
+	height: 12px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Header_2 .StatusOrder .arrows_3 .shape_29 {
+	width: 82.08414713541666%;
+	height: 82.08338419596353%;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 1019px;
+	height: 54px;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 ._1 {
+	position: absolute;
+	left: 12px;
+	top: 18px;
+	width: 4px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .Dec12021 {
+	position: absolute;
+	left: 187px;
+	top: 18px;
+	width: 62px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 ._312SWilmetteAve {
+	position: absolute;
+	left: 490px;
+	top: 18px;
+	width: 111px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 ._12594 {
+	position: absolute;
+	left: 73px;
+	top: 18px;
+	width: 44px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .CustomerName_2 {
+	position: absolute;
+	left: 326px;
+	top: 18px;
+	width: 69px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .CustomerName_2 .FrankMurlo {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 69px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .CustomerName_3 {
+	position: absolute;
+	left: 676px;
+	top: 18px;
+	width: 47px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .CustomerName_3 ._84769 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 47px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .Status {
+	position: absolute;
+	left: 801px;
+	top: 16px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .Status .Ellipse13 {
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .Status .NewOrder {
+	font-weight: 400;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .more_1 {
+	position: absolute;
+	left: 976px;
+	top: 15px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row1 .more_1 .shape_30 {
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 1019px;
+	height: 54px;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 ._2_4 {
+	position: absolute;
+	left: 12px;
+	top: 18px;
+	width: 7px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .Nov152021 {
+	position: absolute;
+	left: 187px;
+	top: 18px;
+	width: 69px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .LathropAveHarvey {
+	position: absolute;
+	left: 490px;
+	top: 18px;
+	width: 119px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 ._12490 {
+	position: absolute;
+	left: 73px;
+	top: 18px;
+	width: 44px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .CustomerName_4 {
+	position: absolute;
+	left: 326px;
+	top: 18px;
+	width: 81px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .CustomerName_4 .ThomasBleir {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 81px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .CustomerName_5 {
+	position: absolute;
+	left: 676px;
+	top: 18px;
+	width: 43px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .CustomerName_5 ._47714 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 43px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .Status_1 {
+	width: 108px;
+	height: 26px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .Status_1 .Status_Delivery {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .Status_1 .Status_Delivery .Status_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 108px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .Status_1 .Status_Delivery .Status_2 .Ellipse13_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 8px;
+	height: 8px;
+	background: rgba(255,149,0,1.00);
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .Status_1 .Status_Delivery .Status_2 .NewOrder_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 68px;
+	height: 18px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .more_2 {
+	position: absolute;
+	left: 976px;
+	top: 15px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row2 .more_2 .shape_31 {
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 1019px;
+	height: 54px;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(230.00000149011612,237.0000010728836,255,1);
+	box-sizing: border-box;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 ._3 {
+	position: absolute;
+	left: 12px;
+	top: 18px;
+	width: 8px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .Nov022021 {
+	position: absolute;
+	left: 187px;
+	top: 18px;
+	width: 72px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 ._5685BruceAvePortage {
+	position: absolute;
+	left: 490px;
+	top: 18px;
+	width: 146px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 ._12306 {
+	position: absolute;
+	left: 73px;
+	top: 18px;
+	width: 44px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .CustomerName_6 {
+	position: absolute;
+	left: 326px;
+	top: 18px;
+	width: 60px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .CustomerName_6 .BillNorton {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 60px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .CustomerName_7 {
+	position: absolute;
+	left: 676px;
+	top: 18px;
+	width: 43px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .CustomerName_7 ._47714_1 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 43px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .more_3 {
+	position: absolute;
+	left: 976px;
+	top: 15px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .more_3 .shape_32 {
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .Status_Delivery_1 {
+	position: absolute;
+	left: 801px;
+	top: 14px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .Status_Delivery_1 .Status_3 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 108px;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .Status_Delivery_1 .Status_3 .Ellipse13_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 8px;
+	height: 8px;
+	background: rgba(255,149,0,1.00);
+	border-radius: 50%;
+}
+.Dashboard_Dashboard .OrderList .Table_2 .Row3 .Status_Delivery_1 .Status_3 .NewOrder_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 68px;
+	height: 18px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}

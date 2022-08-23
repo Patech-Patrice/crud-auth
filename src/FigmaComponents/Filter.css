@@ -1,0 +1,14 @@
+
+.Filter_Filter {
+	width: 88px;
+	height: 26px;
+	display: flex;
+	padding-top: 4px;
+	padding-right: 8px;
+	padding-bottom: 4px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+	border-radius: 8px;
+}

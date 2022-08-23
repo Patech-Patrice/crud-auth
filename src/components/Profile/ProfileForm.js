@@ -8,42 +8,48 @@ const ProfileForm = () => {
 
   //grabs token
   const authCtx = useContext(AuthContext);
+  console.log(authCtx);
 
   const navigate = useNavigate();
   
-  const submitHandler = (event) => {
-    event.preventDefault();
+  // const submitHandler = (event) => {
+  //   event.preventDefault();
 
-    const enteredNewPassword = newPasswordInputRef.current.value;
+  //   const enteredNewPassword = newPasswordInputRef.current.value;
 
-    fetch('https://identitytoolkit.googleapis.com/v1/accounts:update?key=AIzaSyA2DcHQSl-99p7WhPUjLFFNOpPHHljh-sQ', {
-      method: 'POST',
-      body: JSON.stringify({
-        idToken: authCtx.token,
-        password: enteredNewPassword,
-        returnSecureToken: false
-      }),
-      headers: {
-        'Content-Type': 'application/json'
-      }
-    }).then(res => {
-      //succeeds
-      alert('Password successfully changed!');
-      navigate('/')
+  //   fetch('https://identitytoolkit.googleapis.com/v1/accounts:update?key=AIzaSyA2DcHQSl-99p7WhPUjLFFNOpPHHljh-sQ', {
+  //     method: 'POST',
+  //     body: JSON.stringify({
+  //       idToken: authCtx.token,
+  //       password: enteredNewPassword,
+  //       returnSecureToken: false
+  //     }),
+  //     headers: {
+  //       'Content-Type': 'application/json'
+  //     }
+  //   }).then(res => {
+  //     //succeeds
+  //     alert('Password successfully changed!');
+  //     navigate('/')
 
-    })
-  };
+  //   })
+  // };
 
   return (
-    <form className={classes.form} onSubmit={submitHandler}>
-      <div className={classes.control}>
-        <label htmlFor='new-password'>New Password</label>
-        <input type='password' id='new-password' minLength="7"  ref={newPasswordInputRef}/>
+    // <form className={classes.form} onSubmit={submitHandler}>
+    //   <div className={classes.control}>
+    //     <h2>Change Password </h2>
+    //     <label htmlFor='new-password'>New Password</label>
+    //     <input type='password' id='new-password' minLength="7"  ref={newPasswordInputRef}/>
+    //     <input type="text" value="initial value" />
+    //   </div>
+    //   <div className={classes.action}>
+    //     <button>Change Password</button>
+    //   </div>
+    // </form>
+    <div>
       </div>
-      <div className={classes.action}>
-        <button>Change Password</button>
-      </div>
-    </form>
+   
   );
 }
 

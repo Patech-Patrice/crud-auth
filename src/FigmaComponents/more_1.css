@@ -1,0 +1,12 @@
+
+.more_1_more {
+	width: 24px;
+	height: 24px;
+}
+.more_1_more .shape {
+	position: absolute;
+	left: 4px;
+	top: 10px;
+	width: 66.66666666666666%;
+	height: 16.666666666666664%;
+}

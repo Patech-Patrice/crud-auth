@@ -1,0 +1,44 @@
+
+.NavList_NavList {
+	width: 193px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+}
+.NavList_NavList .IconText {
+	position: relative;
+	flex: none;
+	width: 99px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+}
+.NavList_NavList .IconText .case {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+}
+.NavList_NavList .IconText .case .shape {
+	width: 73.75001907348633%;
+	height: 77.91668574015299%;
+}
+.NavList_NavList .IconText .Product {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 63px;
+	height: 24px;
+	color: rgba(124,141,181,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.NavList_NavList .chevrondown {
+	position: relative;
+	flex: none;
+}
+.NavList_NavList .chevrondown .shape_1 {
+	width: 48.74998728434245%;
+}

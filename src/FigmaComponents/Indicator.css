@@ -1,0 +1,45 @@
+
+.Indicator_Indicator {
+	width: 24px;
+	height: 24px;
+	display: flex;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Indicator_Indicator .Frame14 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 75%;
+	height: 18px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 5.5px;
+	padding-left: 5.5px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(255,59,48,1.00);
+	border-radius: 17px;
+}
+.Indicator_Indicator .Frame14 ._2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 10px;
+	width: 7px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 18px;
+}

@@ -1,0 +1,36 @@
+
+.Status_Delivery_Status_Delivery {
+	width: 108px;
+	height: 26px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Status_Delivery_Status_Delivery .Status {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 108px;
+}
+.Status_Delivery_Status_Delivery .Status .Ellipse13 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 8px;
+	height: 8px;
+	background: rgba(255,149,0,1.00);
+	border-radius: 50%;
+}
+.Status_Delivery_Status_Delivery .Status .NewOrder {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 68px;
+	height: 18px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
